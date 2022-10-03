@@ -1,3 +1,4 @@
 # DevWeekGit.GitHub.io
 Curriculo do jornada Dev
-*Surge: therapeutic-disgust.surge.sh
+
+# Surge: therapeutic-disgust.surge.sh
